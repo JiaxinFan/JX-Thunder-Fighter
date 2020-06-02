@@ -1,23 +1,20 @@
 ![Size Badge](https://img.shields.io/github/size/BubbleKID/dynamic-table/dist/bundle.js.svg?maxAge=2592000)
-[![License](https://img.shields.io/badge/License-AEMG-blue)](https://www.aemg.com.au/)
 [![Platform](https://img.shields.io/badge/platform-win--31%20%7C%20win--64-lightgrey)](https://img.shields.io/badge/platform-win--31%20%7C%20win--64-lightgrey)
+[![](https://img.shields.io/badge/License-Apache-brightgreen)](http://www.apache.org/licenses/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiaxin%20Fan-yellow)](https://www.linkedin.com/in/jiaxin-fan-6aa43918b/)
-
-
+[![](https://img.shields.io/badge/LinkedIn-Chenjue%20Xie-green)](https://www.linkedin.com/in/%E6%B2%89%E7%8F%8F-%E8%A7%A3-39450818b/)
 <br />
 <p align="center">
   <h3 align="center">SIT305 Assessment2  </h3>
   <p align="center">
-    A simple Andriod Game
+    Thunder fighter 
     <br />
-    <a href="https://github.com/BubbleKID/reports/blob/newChart/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JiaxinFan/SIT305-Assignment2"><strong>Explore the docs in Git »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BubbleKID/reports/blob/newChart/local/report/public/index.php">View Demo</a>
+    <a href="https://github.com/JiaxinFan/SIT305-Assignment2/blob/master/Issues">Report Bug</a>
     ·
-    <a href="https://github.com/BubbleKID/reports/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/BubbleKID/reports/issues">Request Feature</a>
+    <a href="https://github.com/JiaxinFan/SIT305-Assignment2/blob/master/Issues">Request Feature</a>
   </p>
 </p>
 
@@ -27,18 +24,7 @@
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
     - [Index](#index)
-    - [Student Grade](#student-grade)
-    - [Calss Grade](#calss-grade)
-    - [Branches Grade](#branches-grade)
-    - [Student Distribution](#student-distribution)
-    - [Grade Distribution](#grade-distribution)
-    - [Week Test](#week-test)
-    - [Student Population](#student-population)
-    - [Active Courses](#active-courses)
-    - [Class Analysis](#class-analysis)
-    - [Branches Analysis](#branches-analysis)
   - [Built With](#built-with)
-  - [Server](#server)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Documentation](#documentation)
@@ -48,58 +34,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This website is changed from our old interface. We provide some new functions and tools for users to better complete the operation on this website. This website is mainly used for school teachers who cooperate with AEMG to query related information. 
+<b>Thunder fighter</b>  (based on Android). You must have played tank battle or airplane battle when you were young. Everyone has memories of childhood. Therefore, based on the original old version of the Thunder fighter, our new version of the game will be smoother and more comfortable. As a game player, you need to control your own aircraft from being hit by local fighters. If you are hit multiple times, you will lose the game qualification. The longer you persist, the more powerful you are.
 
-```sh
-This chart shows the population of students by province.
-```
 #### Index
-![Screen Shot](screenshot.png)  
+![Screen Shot](main.png)  
 ```sh
-Users can inquire grades information according to different classifications.
-```
-#### Student Grade
-![Screen Shot](STGrade.png)  
-
-#### Calss Grade
-![Screen Shot](ClassGrade.png)  
-
-#### Branches Grade
-![Screen Shot](BranchesGrade.png)  
-
-#### Student Distribution
-![Screen Shot](STDistribution.png)  
-
-#### Grade Distribution
-![Screen Shot](GradeDistribution.png)  
-
-#### Week Test
-![Screen Shot](WeekTest.png)  
-
-#### Student Population
-![Screen Shot](StudentPopulation.png)  
-
-#### Active Courses
-![Screen Shot](ActiveCourse.png)  
-
-#### Class Analysis
-![Screen Shot](ClassAnalysis.png)  
-
-#### Branches Analysis
-![Screen Shot](BranchesAnalysis.png)  
-
+Main interface
+``` 
+![Screen Shot](Over.png)
+```sh
+Game Over
+``` 
 ### Built With
 
-This project is mainly built with `Bootstrap`, `echarts.js` and `chosen.js` frameworks.
-
-* [Jquery](https://jquery.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [ECharts](https://echarts.apache.org/en/index.html)
+This project is mainly built with `Java`, `Android Studio` .
+* [Android Studio](https://developer.android.com/reference)
+* [Java](https://www.java.com)
 
 
-### Server
-
-* [Github repo](https://github.com/BubbleKID/graphql-table-server>)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -109,37 +61,33 @@ This project is mainly built with `Bootstrap`, `echarts.js` and `chosen.js` fram
 1. Clone the repo
 
 ```sh
-git clone https://github.com/BubbleKID/reports.git
+git clone https://github.com/JiaxinFan/SIT305-Assignment2
 ```
 
-2. Install NPM dependency:
-
-```sh
-npm install
-```
+2. Modify the gradle.build (make it same with your laptop version)
+![Screen Shot](gradle.PNG)
 
 3. Start
 
 ```sh
-npm run dev
+ run the app
 ```
 
 ### Documentation
 
-  Documentation file: 
-```sh
-  https://github.com/BubbleKID/reports/blob/newChart/local/report/public/Documentation.docx
-```
+ Documentation file: 
+ https://github.com/JiaxinFan/SIT305-Assignment2/blob/master/Documentation.docx
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-  * [Bootstrap](https://getbootstrap.com/) - The UI framework used
-  * [Xampp](https://www.apachefriends.org/index.html) - The server used
+  * [Android Studio](https://developer.android.com/reference) - The code and UI framework used
+  * [NoxPlayer](https://www.yeshen.com/) -Emulator to Emulate real Android phone(Test)
   * [SourceTree](https://www.sourcetreeapp.com/) - The application used in joint development
 
 <!-- CONTACT -->
 ## Contact
 
-Jiaxin Fan: fjx009022@gmail.com  
+Jiaxin Fan: fanjiax@deakin.edu.au  
 Chenjue Xie: xiechen@deakin.edu.au
