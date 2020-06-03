@@ -38,6 +38,7 @@
 
 #### Index
 ![Screen Shot](main.png)  
+![Screen Shot](game.png)
 ```sh
 Main interface
 ``` 
