@@ -41,6 +41,10 @@
 ```sh
 Main interface
 ``` 
+![Screen Shot](game.png)  
+```sh
+Game page
+``` 
 ![Screen Shot](Over.png)
 ```sh
 Game Over
