@@ -41,7 +41,7 @@
 ```sh
 Main interface
 ``` 
-![Screen Shot](second.png)  
+![Screen Shot](second.PNG)  
 ```sh
 Game page
 ``` 
