@@ -38,11 +38,10 @@
 
 #### Index
 ![Screen Shot](main.png)  
-![Screen Shot](game.png)
 ```sh
 Main interface
 ``` 
-![Screen Shot](game.png)  
+![Screen Shot](second.png)  
 ```sh
 Game page
 ``` 
